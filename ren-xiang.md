@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # 人像
 
 ## 一、前期功课
@@ -11,7 +15,11 @@
 1. **最基本视觉规律：**
    * 全景时的人物、中近景时脸部、特写时眼睛，还有希望突出的人物体态和部位至于三分法的四个交叉点之一。
 
-     ![1550306543615](https://github.com/sxhlinux/PhotographNotes/tree/a19749e4d0271b7802f13ee664fac69fb542c82c/assets/1550306543615.png) ![1550306573715](https://github.com/sxhlinux/PhotographNotes/tree/a19749e4d0271b7802f13ee664fac69fb542c82c/assets/1550306573715.png) ![1550306588227](https://github.com/sxhlinux/PhotographNotes/tree/a19749e4d0271b7802f13ee664fac69fb542c82c/assets/1550306588227.png) ![1550306601597](https://github.com/sxhlinux/PhotographNotes/tree/a19749e4d0271b7802f13ee664fac69fb542c82c/assets/1550306601597.png)![](.gitbook/assets/1550306543615.png) 
+     ![1550306543615](1550306543615.png)      ![1550306573715](1550306573715.png)
+
+     ![1550306588227](1550306588227.png)
+
+      ![1550306601597](https://github.com/sxhlinux/PhotographNotes/tree/a19749e4d0271b7802f13ee664fac69fb542c82c/assets/1550306601597.png)![](.gitbook/assets/1550306543615.png) 
 2. **拍摄角度：**
    * **平视**：最常见的角度
 
