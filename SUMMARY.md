@@ -1,8 +1,8 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [前言](前言.md)
-* [风光](风光.md)
-* [人像](人像.md)
-* [人文](人文.md)
+* [前言](qian-yan.md)
+* [风光](feng-guang.md)
+* [人像](ren-xiang.md)
+* [人文](ren-wen.md)
 
